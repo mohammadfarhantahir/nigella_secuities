@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537958658561",
+    "project_id": "nigella-securities",
+    "storage_bucket": "nigella-securities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537958658561:android:8165382dd70d9dd127c600",
+        "android_client_info": {
+          "package_name": "com.nigella.nigella_ai_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537958658561-043dv0ri1p99anl186t3ld08d3pdd1u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCazOTXcxo-1wc6x5pB1b_iV6HPPBTi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537958658561-043dv0ri1p99anl186t3ld08d3pdd1u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
